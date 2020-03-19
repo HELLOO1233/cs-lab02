@@ -15,4 +15,8 @@ int main()
             cout << b;
          else
             cout << a;
+         if(b<a)
+            cout << b;
+         else
+            cout << a;
 }
